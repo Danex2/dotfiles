@@ -1,11 +1,17 @@
 # Dotfiles for my current linux environment (Manjaro)
 
-### Includes
+## Config
 
-i3 config  
-spotifyd config (for playing spotify in terminal)  
-colours generated from pywal, you can generate your own if you want to use a different theme
+### Oh My ZSH
 
-### Picture (As of 1/18/21)
+- Install starship from [here](https://starship.rs/)
 
-![picture of my current desktop environment](desktop.png)
+### spotifyd
+
+- You'll need to fill out the information in the spotifyd.conf file, it should work out of the box
+
+Everything else should be just a drop in to their respective folders, if not let me know.
+
+## Picture (As of 2/11/21)
+
+![picture of my current desktop environment](desktop2.png)
